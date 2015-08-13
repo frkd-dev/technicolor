@@ -4,7 +4,7 @@ Experiment to imitatate old 2-strip and 3-strip technicolor films from regular R
 
 ## Examples ##
 
-Here are examples how algorithm works. Images are taken from Aviator movie wich had used similar approach to emulate 2/3-strip technicolor films in their postproduction. Saturation is different on images, due to movie color grading. 
+Here are examples how algorithm works. Images are taken from Aviator movie wich had used similar approach to emulate 2/3-strip technicolor films in their postproduction. Plugin and movie images are bit different, because movie colorists had used custom LUTs (lookup tables) instead of pure algorithms and did additional color grading.
 
 ### 2 strip ###
 
