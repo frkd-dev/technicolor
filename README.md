@@ -12,11 +12,11 @@ Here are examples how algorithm works. Images are taken from Aviator movie wich 
 
 ![](images/2strip-original.jpg)
 
-**Movie**
+**Movie proprietary LUT**
 
 ![](images/2strip-movie.jpg)
 
-**Plugin**
+**Plugin output**
 
 ![](images/2strip-plugin.jpg)
 
@@ -26,11 +26,11 @@ Here are examples how algorithm works. Images are taken from Aviator movie wich 
 
 ![](images/3strip-original.jpg)
 
-**Movie**
+**Movie proprietary LUT**
 
 ![](images/3strip-movie.jpg)
 
-**Plugin**
+**Plugin output**
 
 ![](images/3strip-plugin.jpg)
 
