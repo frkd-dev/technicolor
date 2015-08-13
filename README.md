@@ -1,10 +1,10 @@
 # Technicolor #
 
-Experiment to imitatate old 2-strip and 3-strip technicolor films from regular RGB images. For simplicity of experiment code was written as C# plugins for Paint.NET editor, due to this there is no any build files.
+Experiment to imitate old 2-strip and 3-strip technicolor films from regular RGB images. For simplicity of experiment code was written as C# plugins for Paint.NET editor, due to this there is no build or make files, just sources.
 
 ## Examples ##
 
-Here are examples how algorithm works. Images are taken from Aviator movie wich had used similar approach to emulate 2/3-strip technicolor films in their postproduction. Plugin and movie images are bit different, because movie colorists had used custom LUTs (lookup tables) instead of pure algorithms and did additional color grading.
+Here are examples how algorithm works. Images are taken from Aviator movie wich emulated 2/3-strip technicolor film from conventional images in postproduction. Plugin and movie images are very close, but not identical, because movie colorists had used own proprietary LUTs (lookup tables) instead of pure algorithms and did some color grading.
 
 ### 2 strip ###
 
