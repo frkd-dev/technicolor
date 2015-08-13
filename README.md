@@ -9,23 +9,29 @@ Here are examples how algorithm works. Images are taken from Aviator movie wich 
 ## 2 strip ##
 
 **Original shot**
+
 ![](images/2strip-original.jpg)
 
-**Movie **
+**Movie**
+
 ![](images/2strip-movie.jpg)
 
 **Plugin**
+
 ![](images/2strip-plugin.jpg)
 
 ## 3 strip ##
 
 **Original shot**
+
 ![](images/3strip-original.jpg)
 
-**Movie **
+**Movie**
+
 ![](images/3strip-movie.jpg)
 
 **Plugin**
+
 ![](images/3strip-plugin.jpg)
 
 # License
